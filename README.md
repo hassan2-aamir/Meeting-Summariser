@@ -16,6 +16,14 @@ This project is a meeting summarizer application that transcribes audio files an
 - **LangChain**: A library for building language model applications.
 - **IBM Watson Machine Learning**: A suite of tools for building and deploying machine learning models.
 
+## Demo
+
+![Meeting Transcription](meeting1.png)
+*Audio transcription interface*
+
+![Key Points Extraction](meeting2.png)
+*Extracted key points from the meeting*
+
 ## Installation
 
 1. Clone the repository:
